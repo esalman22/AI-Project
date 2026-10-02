@@ -1,0 +1,1001 @@
+Hemoglobin,RDW,MCV,Age,Gender,Anemia_Type,Pregnancy_Status,Medical_History,Activity_Level,Tea_Coffee_Intake
+11.1,13.3,81.9,61,Female,ID,,,Moderate,Moderate
+8.3,15.7,77.4,80,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+9.3,15.3,73.9,41,Female,IDA,Pregnant,Iron_deficiency,Low,Moderate
+11.7,13.5,75.8,55,Female,ID,,Iron_deficiency,Moderate,Low
+16.8,12.3,82.2,46,Male,Normal,Not Applicable,,Low,Moderate
+11.6,15.4,76.8,46,Female,ID,,Iron_deficiency,Moderate,Low
+12.8,14.7,75.1,25,Female,ID,,,Low,Low
+11.8,13.6,89.5,34,Female,ID,,,Moderate,Low
+10.0,17.1,70.6,78,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+15.1,13.1,97.0,53,Male,Normal,Not Applicable,,Moderate,Low
+10.2,16.0,82.8,69,Male,IDA,Not Applicable,,Moderate,Moderate
+16.1,11.9,87.7,27,Female,Normal,,,Moderate,High
+11.4,12.9,86.3,45,Female,ID,,,Moderate,Moderate
+8.4,17.9,78.9,22,Female,IDA,,Iron_deficiency,Low,Low
+9.6,16.2,76.8,30,Female,IDA,,Iron_deficiency,Low,High
+8.9,14.2,68.3,48,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+16.6,13.6,92.4,18,Female,Normal,,,Moderate,
+9.3,16.6,73.3,61,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+9.7,15.9,69.1,75,Female,IDA,,Iron_deficiency,Low,Low
+14.0,12.5,81.2,21,Female,Normal,,,Moderate,Low
+12.0,15.7,89.5,75,Female,ID,,,High,Moderate
+15.6,12.7,92.7,59,Male,Normal,Not Applicable,,Moderate,
+13.1,12.3,83.6,48,Female,Normal,,,Moderate,Moderate
+12.3,13.5,88.3,18,Female,ID,,,Moderate,High
+15.2,13.8,88.5,77,Female,Normal,,,Low,Moderate
+15.9,14.1,87.4,34,Male,Normal,Not Applicable,,Moderate,Moderate
+15.5,12.3,99.4,30,Female,Normal,,,Moderate,Moderate
+9.6,17.1,80.0,30,Male,IDA,Not Applicable,,Low,High
+10.9,16.9,73.1,73,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+9.6,17.4,72.5,63,Female,IDA,,Iron_deficiency,Low,Low
+15.5,11.8,86.9,20,Female,Normal,,,Moderate,Moderate
+16.9,12.6,91.8,72,Female,Normal,,,Low,Moderate
+11.8,13.6,80.4,62,Male,ID,Not Applicable,,Moderate,Low
+16.9,12.8,97.3,30,Male,Normal,Not Applicable,,High,Moderate
+13.4,12.6,99.4,53,Male,Normal,Not Applicable,,Moderate,
+16.5,12.0,95.0,53,Male,Normal,Not Applicable,,High,High
+12.3,14.9,85.7,37,Male,ID,Not Applicable,,Moderate,Low
+11.2,15.9,82.3,34,Female,ID,,,Moderate,
+10.6,14.3,74.8,38,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+14.3,13.4,92.6,25,Female,Normal,,,Low,Low
+14.7,13.7,93.2,77,Male,Normal,Not Applicable,,High,Low
+15.1,13.5,84.4,73,Female,Normal,,,Moderate,
+13.1,11.9,91.0,18,Female,Normal,,,High,Low
+9.3,17.1,77.2,43,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+13.3,14.3,94.1,31,Female,Normal,,,Moderate,Low
+15.6,13.7,99.7,57,Female,Normal,,,Moderate,Low
+10.4,17.0,77.0,32,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+12.4,13.5,89.3,58,Male,ID,Not Applicable,,High,Low
+13.3,13.2,93.5,26,Female,Normal,,,Moderate,
+9.1,17.0,68.4,61,Male,IDA,Not Applicable,Iron_deficiency,Low,
+11.4,14.2,88.6,28,Male,ID,Not Applicable,,Moderate,Low
+9.5,15.6,67.3,68,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+17.0,12.4,96.0,34,Female,Normal,,,Moderate,High
+11.1,13.4,79.1,37,Female,ID,Pregnant,Iron_deficiency,Moderate,High
+14.5,14.0,99.4,61,Female,Normal,,,Moderate,Moderate
+15.4,13.9,80.7,72,Female,Normal,,,Moderate,Moderate
+12.8,13.9,85.8,50,Male,ID,Not Applicable,,High,Low
+13.1,13.3,84.4,51,Female,Normal,,,Moderate,Moderate
+15.3,12.0,83.0,67,Male,Normal,Not Applicable,,Moderate,Moderate
+8.4,15.7,66.5,32,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+16.1,14.3,83.3,69,Female,Normal,,,High,High
+15.4,14.1,100.0,44,Female,Normal,,,Moderate,Low
+12.7,15.5,81.6,23,Female,ID,,,High,Moderate
+13.6,13.5,99.9,66,Female,Normal,,,Moderate,Moderate
+12.7,12.8,87.8,54,Female,ID,,,Moderate,Low
+11.2,15.6,77.1,34,Female,ID,,Iron_deficiency,Moderate,High
+11.9,14.5,81.0,19,Female,ID,,,Moderate,
+8.9,16.9,69.0,73,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+16.1,13.0,85.9,42,Male,Normal,Not Applicable,,High,Moderate
+12.4,14.3,79.5,65,Male,ID,Not Applicable,,Low,
+16.0,12.6,95.2,45,Male,Normal,Not Applicable,,Low,Moderate
+13.8,13.3,81.5,40,Female,Normal,,,Moderate,
+11.4,13.2,86.4,58,Female,ID,,,Moderate,High
+8.8,17.5,74.9,33,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+16.3,13.0,91.4,70,Male,Normal,Not Applicable,,High,Moderate
+15.4,14.3,81.6,56,Male,Normal,Not Applicable,,High,High
+11.2,15.0,76.1,70,Male,ID,Not Applicable,Iron_deficiency,Moderate,
+14.8,11.9,86.3,68,Female,Normal,,,Moderate,Low
+12.9,13.5,78.0,45,Female,ID,,,Low,Low
+14.3,14.3,96.0,38,Female,Normal,,,High,
+11.4,15.5,88.3,60,Female,ID,,,Moderate,Moderate
+13.6,12.7,84.8,66,Male,Normal,Not Applicable,,Low,Low
+15.0,11.9,82.1,22,Female,Normal,,,Low,Low
+16.2,12.8,82.2,30,Male,Normal,Not Applicable,,Moderate,Low
+13.6,11.7,81.6,43,Male,Normal,Not Applicable,,Moderate,High
+11.9,12.8,79.1,34,Male,ID,Not Applicable,"Iron_deficiency,Thalassemia_trait",Moderate,Low
+8.3,17.3,68.8,52,Female,IDA,,Iron_deficiency,Low,High
+10.5,14.1,71.2,75,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+10.3,17.1,66.1,41,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+15.4,12.5,95.8,39,Female,Normal,,,High,Moderate
+15.5,11.6,99.4,58,Male,Normal,Not Applicable,,High,Low
+15.2,13.5,92.4,56,Female,Normal,,,High,Low
+11.8,12.5,79.3,74,Male,ID,Not Applicable,Iron_deficiency,Moderate,Moderate
+15.6,11.9,93.1,25,Male,Normal,Not Applicable,,Low,Low
+10.2,14.9,83.3,64,Male,IDA,Not Applicable,,Moderate,Moderate
+13.3,11.6,86.2,26,Female,Normal,,,Moderate,Moderate
+10.5,15.1,74.1,71,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+16.5,11.9,99.8,53,Male,Normal,Not Applicable,,Moderate,Moderate
+14.4,11.5,88.4,47,Male,Normal,Not Applicable,,Low,Low
+9.6,14.5,65.2,63,Female,IDA,,Iron_deficiency,Low,High
+9.1,14.1,65.3,34,Female,IDA,,Iron_deficiency,Low,High
+16.4,13.7,91.6,26,Female,Normal,,,Moderate,High
+10.9,17.1,83.5,71,Male,IDA,Not Applicable,,Moderate,High
+16.7,13.4,84.0,47,Female,Normal,,,Moderate,
+12.5,13.8,77.1,38,Female,ID,,,Low,Moderate
+11.9,14.9,76.2,60,Female,ID,,Iron_deficiency,Moderate,Low
+11.9,14.3,81.7,77,Male,ID,Not Applicable,,Moderate,High
+9.4,16.1,77.5,70,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+13.2,12.1,80.1,19,Male,Normal,Not Applicable,,Moderate,Low
+8.3,14.2,65.5,18,Female,IDA,,Iron_deficiency,Low,High
+11.4,15.1,84.0,60,Male,ID,Not Applicable,,Moderate,Low
+9.2,14.5,84.7,63,Male,IDA,Not Applicable,,Low,Moderate
+10.8,17.4,71.4,31,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+10.7,17.2,68.4,50,Female,IDA,,Iron_deficiency,Moderate,
+15.9,11.7,92.3,59,Male,Normal,Not Applicable,,High,Moderate
+15.5,14.5,89.8,32,Female,Normal,,,Low,Moderate
+14.0,14.3,82.1,63,Female,Normal,,,Moderate,
+8.0,14.9,78.0,76,Female,IDA,,Iron_deficiency,Low,Moderate
+11.2,15.6,80.8,21,Female,ID,,,Moderate,Low
+13.5,11.6,96.0,29,Female,Normal,,,High,Moderate
+10.4,16.2,73.1,78,Female,IDA,,Iron_deficiency,Moderate,Low
+15.2,11.6,99.3,19,Female,Normal,,,High,High
+9.8,17.6,66.6,69,Male,IDA,Not Applicable,"Iron_deficiency,GI_bleeding",Low,High
+15.5,12.0,85.4,29,Female,Normal,,,High,Low
+13.1,13.9,89.5,51,Male,Normal,Not Applicable,,Moderate,Low
+12.0,14.6,88.2,27,Female,ID,,,High,Moderate
+12.0,13.5,89.7,59,Male,ID,Not Applicable,,Moderate,Moderate
+16.8,11.5,83.5,33,Male,Normal,Not Applicable,,Moderate,Low
+9.4,17.5,65.9,76,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+8.2,17.2,69.3,18,Female,IDA,,Iron_deficiency,Low,Low
+12.1,14.5,86.5,77,Male,ID,Not Applicable,,Low,High
+8.3,16.0,80.6,20,Female,IDA,Postpartum,,Low,Moderate
+16.0,13.2,81.4,37,Female,Normal,,,Moderate,High
+10.2,17.3,77.7,61,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+12.1,12.7,87.4,36,Female,ID,,,Moderate,High
+16.7,12.7,87.0,46,Male,Normal,Not Applicable,,Moderate,
+16.2,12.1,97.8,33,Female,Normal,,,High,
+13.9,14.3,84.4,44,Female,Normal,Pregnant,,Moderate,High
+16.1,12.9,89.5,60,Female,Normal,,,Moderate,High
+13.0,12.7,80.8,28,Male,Normal,Not Applicable,,Low,Low
+14.0,13.4,97.7,39,Female,Normal,,,Moderate,Low
+16.9,13.1,80.7,30,Female,Normal,,,Moderate,Low
+8.5,14.9,75.2,63,Female,IDA,,Iron_deficiency,Low,Moderate
+14.4,13.1,94.0,74,Female,Normal,,,Moderate,Low
+10.0,17.9,84.4,71,Male,IDA,Not Applicable,,Moderate,High
+9.8,16.5,76.5,54,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+8.9,15.5,78.4,66,Male,IDA,Not Applicable,"Iron_deficiency,GI_bleeding",Low,Moderate
+13.1,12.2,95.2,75,Female,Normal,,,Moderate,
+11.0,17.5,75.6,75,Male,IDA,Not Applicable,"Iron_deficiency,GI_bleeding",Moderate,
+15.9,11.5,83.2,72,Male,Normal,Not Applicable,,High,Moderate
+12.6,14.8,82.3,77,Female,ID,,,High,Low
+14.0,13.4,97.4,49,Female,Normal,,,Moderate,Moderate
+10.8,14.6,76.4,23,Male,IDA,Not Applicable,Iron_deficiency,Moderate,
+13.5,12.3,97.4,78,Female,Normal,,,Moderate,High
+8.6,15.7,79.0,34,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+16.0,12.2,82.1,55,Female,Normal,,,High,High
+14.1,11.8,96.3,44,Male,Normal,Not Applicable,,High,
+11.8,14.7,77.0,44,Female,ID,,Iron_deficiency,Moderate,Low
+14.6,13.6,97.5,33,Female,Normal,,,Moderate,Low
+8.9,14.1,75.3,29,Female,IDA,,Iron_deficiency,Low,Moderate
+12.3,12.6,88.0,31,Male,ID,Not Applicable,,High,Low
+10.7,15.6,78.7,43,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Moderate,
+11.3,15.7,76.7,71,Male,ID,Not Applicable,Iron_deficiency,Moderate,Moderate
+12.4,14.6,87.1,71,Male,ID,Not Applicable,,High,Low
+9.6,14.9,78.3,54,Female,IDA,,Iron_deficiency,Low,Moderate
+12.4,14.8,81.1,52,Male,ID,Not Applicable,,High,Low
+15.5,13.6,92.7,78,Female,Normal,,,Moderate,Low
+12.8,13.1,87.1,45,Female,ID,,,Low,Moderate
+16.3,14.1,89.0,20,Male,Normal,Not Applicable,,Low,Low
+14.8,14.5,81.6,74,Female,Normal,,,Moderate,Low
+15.6,12.9,84.2,37,Male,Normal,Not Applicable,,Moderate,Moderate
+15.1,13.3,88.7,78,Female,Normal,,,Moderate,Moderate
+14.2,11.6,96.3,26,Male,Normal,Not Applicable,,Moderate,Low
+10.2,16.1,70.7,72,Female,IDA,,Iron_deficiency,Moderate,Moderate
+13.2,13.6,87.9,44,Male,Normal,Not Applicable,,Moderate,High
+15.2,12.8,92.6,27,Male,Normal,Not Applicable,,High,Moderate
+13.7,11.9,93.7,59,Male,Normal,Not Applicable,,Low,High
+13.4,13.9,91.6,33,Female,Normal,,,Moderate,Moderate
+10.2,15.4,77.1,42,Female,IDA,,Iron_deficiency,Moderate,
+12.0,15.3,84.7,41,Female,ID,,,High,Low
+14.9,12.6,92.1,75,Female,Normal,,,High,Moderate
+11.3,14.9,79.8,20,Female,ID,,Iron_deficiency,Moderate,High
+13.1,13.5,90.3,63,Female,Normal,,,High,Low
+11.5,13.5,79.7,74,Male,ID,Not Applicable,"Iron_deficiency,GI_bleeding",Moderate,
+10.9,16.3,79.1,52,Female,IDA,,Iron_deficiency,Moderate,Moderate
+15.8,12.2,89.9,27,Female,Normal,,,High,
+15.6,12.1,97.5,19,Male,Normal,Not Applicable,,High,Moderate
+14.5,13.2,82.6,19,Male,Normal,Not Applicable,,Moderate,Moderate
+9.7,16.9,77.3,65,Female,IDA,,Iron_deficiency,Low,Moderate
+10.6,17.3,82.3,33,Male,IDA,Not Applicable,,Moderate,High
+10.2,17.5,79.2,31,Female,IDA,,Iron_deficiency,Moderate,Moderate
+9.2,14.7,77.6,41,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+11.9,14.4,76.2,27,Male,ID,Not Applicable,Iron_deficiency,Moderate,High
+16.1,12.9,82.6,20,Female,Normal,,,Moderate,Moderate
+13.9,12.7,95.9,22,Male,Normal,Not Applicable,,Moderate,High
+16.6,12.3,91.7,80,Male,Normal,Not Applicable,,Moderate,
+13.1,11.9,84.6,29,Female,Normal,,,High,Moderate
+13.0,12.3,85.5,30,Female,Normal,,,Moderate,Low
+11.3,13.0,88.9,28,Male,ID,Not Applicable,,Moderate,High
+14.4,13.0,84.4,30,Male,Normal,Not Applicable,,Moderate,Moderate
+13.2,14.1,96.6,60,Female,Normal,,,Moderate,Low
+11.3,13.1,80.1,53,Female,ID,,,Moderate,Low
+12.7,12.6,82.5,75,Female,ID,,,Low,Low
+12.1,14.0,81.0,73,Male,ID,Not Applicable,,Low,Moderate
+9.4,15.7,84.5,65,Male,IDA,Not Applicable,,Low,Low
+12.6,12.9,89.7,52,Male,ID,Not Applicable,,Low,
+16.3,12.0,96.4,74,Male,Normal,Not Applicable,,High,High
+9.0,16.3,70.1,74,Female,IDA,,Iron_deficiency,Low,High
+14.4,11.8,93.4,73,Male,Normal,Not Applicable,,Moderate,Low
+8.7,16.5,68.3,69,Female,IDA,,Iron_deficiency,Low,Low
+15.2,13.3,94.8,19,Female,Normal,,,High,High
+14.0,12.5,87.0,22,Female,Normal,,,Moderate,Moderate
+10.2,14.1,66.1,34,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+8.4,14.8,68.1,42,Female,IDA,,Iron_deficiency,Low,Low
+11.7,12.7,79.5,70,Female,ID,,Iron_deficiency,Moderate,Low
+16.0,12.9,94.4,59,Female,Normal,,,Low,
+12.3,12.9,78.5,34,Male,ID,Not Applicable,,Low,Moderate
+16.4,13.4,92.3,48,Male,Normal,Not Applicable,,High,
+8.1,14.2,72.4,69,Female,IDA,,Iron_deficiency,Low,
+9.4,16.8,84.2,66,Male,IDA,Not Applicable,,Low,Moderate
+16.9,13.7,97.4,19,Male,Normal,Not Applicable,,Moderate,High
+9.5,18.0,82.4,65,Male,IDA,Not Applicable,,Low,High
+9.8,17.1,69.0,37,Female,IDA,,Iron_deficiency,Low,Moderate
+13.7,13.8,80.4,21,Female,Normal,,,High,Low
+10.4,18.0,70.6,47,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+15.9,12.4,97.5,23,Female,Normal,,,Low,Low
+11.1,12.7,78.9,73,Male,ID,Not Applicable,Iron_deficiency,Moderate,Moderate
+15.0,11.7,97.3,31,Female,Normal,,,Moderate,Low
+8.7,16.8,77.1,51,Female,IDA,,Iron_deficiency,Low,Moderate
+11.5,12.8,83.1,35,Male,ID,Not Applicable,,Moderate,High
+14.6,11.9,94.9,31,Male,Normal,Not Applicable,,High,High
+9.5,17.0,65.8,64,Male,IDA,Not Applicable,Iron_deficiency,Low,
+15.8,13.8,82.4,22,Female,Normal,Pregnant,,Moderate,Low
+11.9,14.3,86.9,47,Female,ID,,,Moderate,Low
+16.8,13.2,82.4,70,Female,Normal,,,Moderate,Low
+13.7,14.5,91.9,33,Female,Normal,,,High,Low
+15.0,13.9,84.6,40,Female,Normal,,,Moderate,Low
+10.1,16.1,84.9,23,Female,IDA,,,Moderate,High
+16.6,13.0,86.9,62,Male,Normal,Not Applicable,,Moderate,Low
+13.5,12.0,99.9,64,Male,Normal,Not Applicable,,Moderate,High
+15.4,13.9,94.6,45,Female,Normal,,,Moderate,
+15.4,11.7,89.8,23,Female,Normal,,,High,
+11.7,15.4,80.8,40,Male,ID,Not Applicable,,Moderate,Moderate
+9.8,16.1,69.0,65,Female,IDA,,Iron_deficiency,Low,
+15.1,14.3,94.3,58,Female,Normal,,,High,Low
+13.3,13.6,83.1,43,Female,Normal,,,Moderate,High
+13.6,11.9,89.1,48,Female,Normal,,,High,Low
+13.3,14.3,93.6,56,Male,Normal,Not Applicable,,Moderate,Low
+14.2,13.4,98.9,59,Male,Normal,Not Applicable,,Low,Moderate
+14.9,13.3,81.8,39,Female,Normal,,,Moderate,Low
+14.3,13.0,88.4,73,Female,Normal,,,High,Moderate
+10.2,15.7,70.9,36,Female,IDA,,Iron_deficiency,Moderate,Moderate
+9.1,17.1,69.9,40,Female,IDA,,Iron_deficiency,Low,High
+9.9,15.8,83.6,45,Male,IDA,Not Applicable,,Low,Low
+16.0,11.5,92.3,49,Male,Normal,Not Applicable,,Low,Low
+14.1,12.7,84.4,52,Female,Normal,,,Moderate,Moderate
+12.1,14.4,75.4,23,Female,ID,,,Moderate,High
+9.1,14.4,84.8,18,Male,IDA,Not Applicable,,Low,Moderate
+9.1,15.4,80.0,59,Male,IDA,Not Applicable,,Low,Moderate
+13.6,12.0,93.2,46,Female,Normal,,,High,
+11.0,15.6,67.8,18,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+14.5,12.6,81.0,80,Female,Normal,,,Low,
+14.7,12.0,83.7,62,Male,Normal,Not Applicable,,Moderate,Moderate
+15.8,13.8,87.8,20,Male,Normal,Not Applicable,,High,Low
+15.3,12.9,88.4,19,Female,Normal,,,Moderate,Moderate
+9.5,16.9,67.5,62,Male,IDA,Not Applicable,Iron_deficiency,Low,
+9.6,15.4,67.5,72,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+13.5,12.2,83.3,20,Male,Normal,Not Applicable,,Low,Moderate
+12.1,14.9,75.2,45,Male,ID,Not Applicable,,Low,
+15.8,13.5,87.8,52,Male,Normal,Not Applicable,,Moderate,
+14.8,13.9,84.8,32,Male,Normal,Not Applicable,,Moderate,
+16.6,13.9,85.3,25,Male,Normal,Not Applicable,,High,High
+10.8,15.8,82.1,75,Male,IDA,Not Applicable,,Moderate,Low
+14.2,11.9,95.9,64,Female,Normal,,,Moderate,Moderate
+11.5,14.1,88.5,46,Female,ID,,,Moderate,Moderate
+15.8,13.7,89.8,22,Male,Normal,Not Applicable,,Moderate,Moderate
+15.9,12.4,99.5,54,Male,Normal,Not Applicable,,High,Low
+11.6,13.9,76.6,35,Female,ID,,Iron_deficiency,Moderate,Moderate
+15.5,14.4,81.8,80,Female,Normal,,,Moderate,High
+9.4,17.0,76.9,58,Female,IDA,,Iron_deficiency,Low,Low
+11.8,13.2,80.6,65,Male,ID,Not Applicable,,Moderate,High
+9.6,17.3,82.7,65,Male,IDA,Not Applicable,,Low,
+13.7,12.6,83.7,47,Male,Normal,Not Applicable,,Moderate,Low
+13.1,12.0,87.9,49,Male,Normal,Not Applicable,,High,High
+15.8,13.3,89.0,19,Female,Normal,,,Moderate,Moderate
+9.7,14.3,83.3,58,Male,IDA,Not Applicable,,Low,Moderate
+15.3,11.7,91.8,35,Male,Normal,Not Applicable,,High,Low
+13.3,13.3,93.7,21,Male,Normal,Not Applicable,,High,Low
+14.6,13.9,85.5,20,Female,Normal,,,Low,Low
+9.6,17.0,78.5,25,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+9.8,16.4,83.7,52,Female,IDA,,,Low,Moderate
+9.2,14.3,81.0,40,Male,IDA,Not Applicable,,Low,Low
+11.5,12.6,79.7,66,Female,ID,,Iron_deficiency,Moderate,Low
+16.8,12.4,100.0,67,Male,Normal,Not Applicable,,Moderate,Low
+14.8,13.1,92.5,35,Female,Normal,,,Moderate,Low
+13.9,13.2,97.4,80,Female,Normal,,,Low,
+9.4,15.7,77.2,34,Female,IDA,,Iron_deficiency,Low,High
+14.4,13.4,92.8,67,Female,Normal,,,Moderate,Moderate
+16.5,14.0,97.0,42,Female,Normal,,,Moderate,
+14.0,11.9,95.1,52,Female,Normal,,,High,Moderate
+11.2,16.0,87.5,66,Female,ID,,,Moderate,High
+13.3,12.3,99.4,45,Male,Normal,Not Applicable,,High,Low
+14.8,11.8,90.9,79,Female,Normal,,,High,Low
+13.4,14.2,80.8,51,Female,Normal,,,Moderate,
+8.1,14.0,81.7,33,Female,IDA,,,Low,
+9.9,16.9,74.5,64,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+13.2,13.0,99.5,66,Male,Normal,Not Applicable,,Moderate,High
+13.0,14.7,76.9,26,Female,ID,,,Moderate,
+8.0,16.4,83.9,34,Male,IDA,Not Applicable,,Low,Moderate
+11.7,14.3,83.1,50,Male,ID,Not Applicable,,Moderate,
+12.2,13.3,83.7,35,Female,ID,,,Low,Moderate
+11.9,15.7,89.8,26,Female,ID,,,Moderate,High
+12.8,12.7,77.2,29,Male,ID,Not Applicable,,High,Low
+8.7,16.7,71.4,43,Male,IDA,Not Applicable,Iron_deficiency,Low,
+14.5,14.1,98.9,50,Male,Normal,Not Applicable,,Moderate,Moderate
+16.6,14.2,91.4,34,Male,Normal,Not Applicable,,Moderate,High
+16.6,12.1,99.7,39,Male,Normal,Not Applicable,,High,Low
+15.6,12.1,88.8,32,Female,Normal,,,Moderate,Low
+8.0,16.0,77.8,73,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+15.6,12.9,83.3,77,Female,Normal,,,Low,Moderate
+13.5,12.3,99.0,48,Female,Normal,,,Low,Moderate
+13.2,13.9,97.0,72,Male,Normal,Not Applicable,,Moderate,Moderate
+15.2,13.2,81.0,40,Male,Normal,Not Applicable,,High,Moderate
+11.3,13.4,85.2,53,Female,ID,,,Moderate,High
+9.8,17.2,76.7,44,Female,IDA,,Iron_deficiency,Low,High
+11.1,13.5,89.8,75,Female,ID,,,Moderate,Low
+13.7,12.0,97.4,59,Female,Normal,,,Moderate,Moderate
+16.6,13.0,87.3,79,Female,Normal,,,High,Low
+10.3,17.3,73.1,75,Female,IDA,,Iron_deficiency,Moderate,Low
+14.4,13.1,84.4,42,Male,Normal,Not Applicable,,High,High
+9.2,15.8,65.1,68,Female,IDA,,Iron_deficiency,Low,Moderate
+13.3,14.0,97.9,26,Male,Normal,Not Applicable,,High,High
+9.5,16.4,65.1,36,Female,IDA,,Iron_deficiency,Low,Moderate
+11.0,12.7,87.4,35,Female,ID,,,Moderate,Moderate
+14.5,13.6,83.7,65,Male,Normal,Not Applicable,,Moderate,Low
+14.6,13.3,90.5,79,Female,Normal,,,Low,
+8.9,16.2,71.1,39,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+11.2,12.9,80.1,54,Female,ID,,,Moderate,Moderate
+10.3,17.5,65.3,26,Male,IDA,Not Applicable,Iron_deficiency,Moderate,
+12.2,14.8,89.4,51,Female,ID,,,High,High
+15.2,11.7,95.2,24,Male,Normal,Not Applicable,,Moderate,
+14.3,12.8,93.3,37,Female,Normal,,,Moderate,Low
+15.0,11.7,92.6,35,Female,Normal,,,High,Moderate
+14.7,12.6,91.0,21,Female,Normal,,,Low,
+14.4,13.5,86.7,21,Female,Normal,,,High,High
+16.2,14.1,86.3,22,Female,Normal,,,High,Moderate
+12.7,15.6,83.7,46,Female,ID,,,High,
+9.9,16.4,83.1,64,Male,IDA,Not Applicable,,Low,Moderate
+13.5,11.9,98.9,21,Female,Normal,,,Moderate,Moderate
+10.9,17.0,65.1,34,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+13.5,12.3,86.8,56,Female,Normal,,,High,Moderate
+15.0,13.9,89.6,71,Male,Normal,Not Applicable,,Moderate,Moderate
+8.9,16.1,79.8,75,Female,IDA,,Iron_deficiency,Low,Moderate
+16.9,12.5,85.7,43,Female,Normal,Pregnant,,High,Low
+13.1,13.3,82.7,50,Male,Normal,Not Applicable,,High,Moderate
+13.9,14.2,89.9,56,Female,Normal,,,High,High
+13.2,13.6,80.6,53,Female,Normal,,,Moderate,Moderate
+13.2,12.8,99.7,42,Female,Normal,,,Low,Moderate
+15.2,12.5,83.6,32,Female,Normal,,,Moderate,Low
+14.1,11.9,85.3,52,Female,Normal,,,Moderate,Moderate
+15.0,13.9,83.0,27,Female,Normal,,,Moderate,High
+11.9,14.2,89.2,36,Male,ID,Not Applicable,,Moderate,Low
+14.3,12.8,81.5,36,Male,Normal,Not Applicable,,Moderate,Low
+16.1,13.3,89.9,21,Male,Normal,Not Applicable,,Moderate,Moderate
+13.4,11.8,83.2,78,Female,Normal,,,High,Low
+15.4,11.7,86.4,40,Female,Normal,,,High,Moderate
+9.6,17.0,83.2,41,Female,IDA,,,Low,
+15.5,12.2,92.4,63,Female,Normal,,,Moderate,Low
+16.0,11.8,99.4,25,Male,Normal,Not Applicable,,High,Moderate
+8.4,17.9,65.1,27,Female,IDA,Postpartum,"Iron_deficiency,Heavy_menstruation",Low,Moderate
+15.4,12.4,85.7,52,Female,Normal,,,Moderate,Moderate
+10.3,14.9,76.4,21,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+16.8,11.6,96.5,67,Male,Normal,Not Applicable,,Moderate,Moderate
+13.9,13.1,85.2,20,Male,Normal,Not Applicable,,Low,Moderate
+13.2,14.2,93.8,43,Male,Normal,Not Applicable,,High,Moderate
+9.7,17.1,75.1,61,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+16.9,13.0,96.0,54,Female,Normal,,,High,Moderate
+16.3,13.4,80.4,24,Female,Normal,,,High,
+9.2,15.5,83.8,18,Male,IDA,Not Applicable,,Low,Low
+9.2,17.0,76.0,38,Female,IDA,,Iron_deficiency,Low,Moderate
+15.6,12.8,99.4,40,Female,Normal,,,High,High
+13.1,14.2,97.6,61,Female,Normal,,,High,Moderate
+9.4,15.1,75.0,37,Female,IDA,,Iron_deficiency,Low,
+13.8,12.6,93.0,55,Male,Normal,Not Applicable,,Moderate,Moderate
+15.6,14.3,99.0,25,Male,Normal,Not Applicable,,Moderate,Low
+10.9,16.7,77.5,38,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Moderate,Moderate
+12.8,14.0,81.1,29,Female,ID,,,Moderate,Moderate
+13.5,13.0,81.6,27,Female,Normal,,,High,Moderate
+9.9,16.9,73.4,32,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+8.6,16.9,77.8,22,Female,IDA,,Iron_deficiency,Low,Low
+15.6,13.2,98.7,36,Female,Normal,Pregnant,,Low,Low
+15.0,13.3,95.8,21,Male,Normal,Not Applicable,,Moderate,High
+12.1,14.8,79.3,29,Female,ID,,,High,Moderate
+13.9,13.0,93.9,26,Female,Normal,,,Moderate,Moderate
+12.6,14.6,79.3,56,Male,ID,Not Applicable,,High,Low
+13.4,11.9,95.3,64,Male,Normal,Not Applicable,,Moderate,
+16.6,14.2,89.5,35,Female,Normal,,,High,
+14.5,13.5,93.5,63,Male,Normal,Not Applicable,,High,Low
+10.0,16.4,76.1,42,Female,IDA,,Iron_deficiency,Moderate,Moderate
+10.7,17.9,78.1,34,Female,IDA,,Iron_deficiency,Moderate,High
+14.8,14.0,98.9,76,Male,Normal,Not Applicable,,Moderate,Moderate
+16.5,12.4,88.1,69,Female,Normal,,,High,Low
+12.1,12.6,83.1,30,Female,ID,Postpartum,,Moderate,
+12.9,15.5,79.3,44,Male,ID,Not Applicable,,Moderate,Low
+12.6,15.7,85.4,53,Female,ID,,,Moderate,Moderate
+11.9,13.0,79.1,45,Female,ID,,"Iron_deficiency,Heavy_menstruation",Moderate,Moderate
+8.3,14.8,72.5,39,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+14.9,13.2,81.4,62,Female,Normal,,,High,Moderate
+16.1,14.1,90.6,70,Male,Normal,Not Applicable,,Low,
+12.0,15.7,81.8,46,Female,ID,,,Moderate,Moderate
+11.0,15.6,75.5,67,Female,ID,,Iron_deficiency,Moderate,High
+8.2,16.2,75.4,59,Female,IDA,,Iron_deficiency,Low,Moderate
+8.9,16.2,79.8,52,Male,IDA,Not Applicable,Iron_deficiency,Low,
+16.5,11.6,80.2,25,Female,Normal,,,High,High
+10.5,15.2,74.5,69,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+10.9,16.6,82.0,53,Male,IDA,Not Applicable,,Moderate,Moderate
+12.3,13.6,83.8,75,Male,ID,Not Applicable,,Moderate,Moderate
+8.8,15.3,81.5,22,Female,IDA,,,Low,Low
+12.9,15.0,77.4,58,Male,ID,Not Applicable,,Moderate,Moderate
+16.0,14.2,96.8,77,Female,Normal,,,Low,Low
+14.7,14.5,98.3,65,Female,Normal,,,Moderate,
+10.4,15.4,65.3,49,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+15.5,11.7,80.1,72,Male,Normal,Not Applicable,,High,High
+12.5,12.9,78.4,41,Male,ID,Not Applicable,Thalassemia_trait,Low,Moderate
+13.4,13.1,93.3,26,Female,Normal,,,Moderate,Low
+16.6,12.0,98.2,78,Female,Normal,,,High,
+13.3,12.5,97.6,66,Male,Normal,Not Applicable,,Low,High
+14.1,12.1,99.7,59,Female,Normal,,,High,High
+12.6,15.1,84.9,71,Male,ID,Not Applicable,,Moderate,Moderate
+16.5,11.9,95.6,68,Female,Normal,,,High,Moderate
+13.1,14.2,90.4,23,Female,Normal,,,High,Low
+14.6,13.8,98.2,31,Female,Normal,,,High,Low
+13.3,12.1,89.7,52,Female,Normal,,,Moderate,
+13.0,13.1,93.8,77,Female,Normal,,,Moderate,
+15.8,13.7,82.8,73,Male,Normal,Not Applicable,,High,Low
+16.3,14.3,98.9,54,Male,Normal,Not Applicable,,Moderate,Moderate
+16.7,12.0,92.7,41,Male,Normal,Not Applicable,,Moderate,
+13.8,14.1,83.6,71,Female,Normal,,,Low,Low
+9.6,14.1,67.5,28,Female,IDA,,Iron_deficiency,Low,Moderate
+12.2,13.9,82.2,73,Female,ID,,,High,Low
+14.5,13.7,98.9,71,Female,Normal,,,High,Low
+12.8,15.8,83.0,21,Male,ID,Not Applicable,,Moderate,Moderate
+8.7,17.1,83.3,51,Female,IDA,,,Low,Moderate
+11.5,12.9,89.3,61,Male,ID,Not Applicable,,Moderate,Moderate
+12.4,15.4,77.9,29,Male,ID,Not Applicable,,High,High
+12.1,13.0,81.9,54,Female,ID,,,Moderate,Low
+12.8,13.8,87.5,61,Female,ID,,,Moderate,High
+15.8,11.8,95.6,78,Female,Normal,,,Moderate,High
+11.3,14.5,79.2,53,Male,ID,Not Applicable,Iron_deficiency,Moderate,High
+12.7,13.5,84.6,34,Female,ID,,,Moderate,Moderate
+12.3,13.7,88.0,54,Male,ID,Not Applicable,,Moderate,Moderate
+8.4,14.8,75.5,76,Female,IDA,,"Iron_deficiency,GI_bleeding",Low,Moderate
+16.1,12.7,90.4,32,Female,Normal,,,High,Moderate
+15.1,12.2,94.9,30,Male,Normal,Not Applicable,,High,
+16.9,14.2,98.4,46,Male,Normal,Not Applicable,,Moderate,High
+11.2,14.1,86.1,61,Male,ID,Not Applicable,,Moderate,Moderate
+9.4,15.1,83.1,56,Female,IDA,,,Low,High
+11.1,15.5,88.6,42,Female,ID,,,Moderate,Moderate
+14.3,12.0,97.4,33,Female,Normal,Postpartum,,Moderate,
+16.8,13.4,85.4,60,Female,Normal,,,Low,Moderate
+15.8,14.1,99.8,48,Female,Normal,,,High,Moderate
+16.2,11.7,90.7,41,Male,Normal,Not Applicable,,High,Low
+12.8,15.3,87.4,58,Female,ID,,,High,Low
+9.7,17.0,82.1,52,Male,IDA,Not Applicable,,Low,Low
+17.0,13.7,84.7,51,Female,Normal,,,Moderate,Moderate
+16.6,11.9,99.9,71,Female,Normal,,,Low,Low
+15.5,14.1,91.9,75,Female,Normal,,,Moderate,High
+14.3,14.3,82.4,36,Female,Normal,,,Low,Low
+13.0,14.6,89.3,28,Male,ID,Not Applicable,,Low,Low
+14.9,11.6,93.5,69,Female,Normal,,,Low,Low
+13.4,12.6,97.4,23,Female,Normal,,,High,Moderate
+16.0,12.0,92.2,24,Female,Normal,,,Low,Low
+11.0,15.4,69.0,33,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+14.9,12.0,84.6,37,Male,Normal,Not Applicable,,Low,High
+16.4,14.2,84.0,55,Male,Normal,Not Applicable,,High,Low
+8.7,14.8,66.8,61,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+8.6,16.1,76.8,71,Male,IDA,Not Applicable,Iron_deficiency,Low,
+10.7,15.0,84.0,64,Female,IDA,,,Moderate,Low
+12.8,14.7,81.6,30,Female,ID,,,Moderate,Low
+12.6,12.5,82.4,65,Male,ID,Not Applicable,,High,
+12.8,15.0,82.7,26,Female,ID,,,Moderate,Moderate
+16.1,14.2,84.6,18,Male,Normal,Not Applicable,,High,Moderate
+16.9,12.8,99.8,65,Female,Normal,,,Moderate,Moderate
+16.4,12.4,88.6,77,Male,Normal,Not Applicable,,Moderate,Moderate
+11.7,14.6,80.8,61,Male,ID,Not Applicable,,Moderate,Moderate
+16.6,13.5,92.5,30,Female,Normal,Pregnant,,High,Low
+13.1,12.2,86.4,38,Female,Normal,,,Moderate,
+14.0,12.9,90.0,54,Male,Normal,Not Applicable,,Moderate,
+13.7,12.0,90.1,42,Female,Normal,,,Moderate,Moderate
+13.3,11.9,89.3,22,Female,Normal,,,Low,High
+10.5,16.1,76.2,18,Female,IDA,,Iron_deficiency,Moderate,
+11.8,13.7,81.1,61,Female,ID,,,Moderate,Moderate
+8.4,17.1,66.4,62,Female,IDA,,Iron_deficiency,Low,High
+13.1,12.0,81.2,76,Male,Normal,Not Applicable,,High,Moderate
+14.8,12.3,80.1,79,Female,Normal,,,Moderate,Moderate
+16.7,14.4,95.2,58,Female,Normal,,,Low,Moderate
+16.3,12.1,97.4,24,Female,Normal,,,Moderate,Moderate
+14.2,12.4,80.8,40,Female,Normal,,,High,High
+10.7,17.0,80.3,46,Male,IDA,Not Applicable,,Moderate,Low
+9.6,15.6,79.0,45,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Low,High
+11.1,15.7,82.5,42,Female,ID,,,Moderate,
+14.5,12.7,82.1,56,Female,Normal,,,Moderate,Moderate
+16.7,12.1,96.6,62,Female,Normal,,,Moderate,
+10.8,17.3,82.9,72,Female,IDA,,,Moderate,Low
+8.1,14.9,84.5,29,Female,IDA,,,Low,
+8.3,16.5,70.6,73,Female,IDA,,Iron_deficiency,Low,Moderate
+12.7,13.8,76.1,43,Male,ID,Not Applicable,,High,Low
+16.5,11.8,85.2,23,Female,Normal,,,Low,Low
+8.2,17.8,74.4,30,Female,IDA,,Iron_deficiency,Low,Moderate
+8.1,16.1,83.5,29,Male,IDA,Not Applicable,,Low,Moderate
+15.8,13.1,89.8,74,Male,Normal,Not Applicable,,High,Moderate
+12.7,15.3,83.3,68,Female,ID,,,Moderate,High
+13.2,12.8,93.0,59,Male,Normal,Not Applicable,,Moderate,Moderate
+13.7,11.6,98.5,53,Male,Normal,Not Applicable,,Moderate,
+16.8,13.1,99.5,39,Male,Normal,Not Applicable,,High,Low
+8.7,14.8,80.0,80,Male,IDA,Not Applicable,,Low,High
+13.4,11.7,88.6,20,Male,Normal,Not Applicable,,Moderate,
+13.6,14.1,90.8,66,Female,Normal,,,Moderate,Low
+9.9,17.3,83.5,74,Male,IDA,Not Applicable,,Low,High
+14.2,14.4,98.5,67,Female,Normal,,,Moderate,High
+13.1,11.6,98.0,44,Female,Normal,,,Moderate,Low
+12.4,13.7,87.1,31,Male,ID,Not Applicable,,Moderate,Moderate
+8.4,17.4,68.8,75,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.0,11.5,85.2,47,Female,Normal,,,Moderate,Moderate
+16.0,14.0,90.3,73,Male,Normal,Not Applicable,,Moderate,
+12.9,15.4,80.2,43,Male,ID,Not Applicable,,Low,
+9.6,17.0,72.3,23,Female,IDA,,Iron_deficiency,Low,Moderate
+16.6,11.9,86.5,76,Female,Normal,,,Moderate,Low
+12.1,14.6,79.4,20,Female,ID,Postpartum,,Moderate,Moderate
+15.2,12.5,90.3,71,Male,Normal,Not Applicable,,Moderate,Low
+11.1,15.2,89.9,72,Female,ID,,,Moderate,High
+13.3,14.2,87.1,21,Female,Normal,,,Low,Moderate
+13.0,15.4,87.1,62,Male,ID,Not Applicable,,Moderate,Low
+15.3,12.0,86.5,37,Female,Normal,,,Moderate,Moderate
+8.5,16.2,81.6,45,Male,IDA,Not Applicable,,Low,Low
+13.3,12.0,82.8,40,Male,Normal,Not Applicable,,Low,Low
+15.0,13.7,93.6,54,Female,Normal,,,Moderate,Low
+15.9,14.3,88.6,61,Male,Normal,Not Applicable,,Moderate,High
+8.5,17.1,78.5,45,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+16.9,11.9,93.9,33,Female,Normal,Pregnant,,High,High
+15.1,13.8,86.0,55,Female,Normal,,,Moderate,High
+16.2,14.0,97.2,45,Female,Normal,Pregnant,,High,High
+14.1,12.7,97.3,52,Female,Normal,,,Moderate,Low
+14.1,12.8,93.9,38,Female,Normal,Pregnant,,High,High
+13.7,12.3,97.5,59,Male,Normal,Not Applicable,,Moderate,Moderate
+8.6,15.5,80.2,31,Female,IDA,,,Low,Moderate
+12.1,15.0,82.6,55,Male,ID,Not Applicable,,Moderate,Moderate
+10.3,16.3,67.3,32,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+12.0,14.3,80.8,52,Female,ID,,,Moderate,Low
+16.3,12.9,81.7,67,Male,Normal,Not Applicable,,High,Low
+16.2,11.7,81.8,78,Male,Normal,Not Applicable,,Moderate,
+16.6,12.1,88.1,44,Male,Normal,Not Applicable,,Moderate,Low
+11.9,13.7,86.6,57,Male,ID,Not Applicable,,Moderate,High
+13.8,11.6,88.0,45,Female,Normal,,,Moderate,Moderate
+10.0,15.6,75.9,70,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+9.3,17.4,71.7,39,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+13.3,14.3,84.8,50,Male,Normal,Not Applicable,,High,Low
+14.4,12.5,92.0,47,Male,Normal,Not Applicable,,Low,Low
+14.2,11.8,84.7,51,Female,Normal,,,Moderate,Moderate
+15.5,13.3,80.8,69,Male,Normal,Not Applicable,,Moderate,Low
+14.4,13.3,97.4,57,Male,Normal,Not Applicable,,High,Moderate
+10.4,17.6,70.9,36,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+8.8,16.3,72.1,66,Female,IDA,,"Iron_deficiency,GI_bleeding",Low,Moderate
+9.9,17.1,72.4,50,Female,IDA,,Iron_deficiency,Low,High
+15.1,13.7,89.1,29,Female,Normal,Pregnant,,Moderate,Low
+14.5,14.0,88.9,68,Female,Normal,,,Moderate,High
+12.3,15.3,84.1,71,Female,ID,,,High,Moderate
+15.9,12.8,94.2,62,Male,Normal,Not Applicable,,Moderate,Moderate
+14.9,13.5,89.3,41,Male,Normal,Not Applicable,,Low,Moderate
+9.4,15.1,69.3,75,Female,IDA,,Iron_deficiency,Low,High
+14.1,13.0,97.3,38,Male,Normal,Not Applicable,,Moderate,High
+13.9,13.4,93.1,54,Female,Normal,,,Low,Low
+8.1,17.3,69.6,43,Female,IDA,,Iron_deficiency,Low,High
+16.9,13.1,97.5,65,Female,Normal,,,Low,Moderate
+13.7,14.2,94.5,38,Female,Normal,,,Moderate,Low
+10.3,16.9,69.6,55,Female,IDA,,Iron_deficiency,Moderate,High
+15.0,12.1,93.6,64,Female,Normal,,,High,Low
+13.0,13.5,91.3,78,Female,Normal,,,High,Moderate
+16.0,11.8,94.1,49,Female,Normal,,,Low,
+11.3,12.5,89.4,41,Male,ID,Not Applicable,,Moderate,Low
+15.2,13.9,84.9,35,Female,Normal,,,Moderate,Moderate
+14.2,12.0,80.7,40,Female,Normal,,,Low,Low
+8.6,16.9,72.9,37,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+10.5,16.5,78.8,48,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+8.2,15.6,73.7,42,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Low,Moderate
+13.0,12.5,96.1,77,Female,Normal,,,High,Moderate
+11.5,13.3,77.3,32,Male,ID,Not Applicable,Iron_deficiency,Moderate,High
+12.9,14.6,79.5,40,Male,ID,Not Applicable,,Low,
+15.7,12.9,81.3,28,Male,Normal,Not Applicable,,Moderate,Moderate
+13.7,14.4,90.8,71,Male,Normal,Not Applicable,,Moderate,Low
+16.7,14.2,92.5,53,Female,Normal,,,Moderate,Moderate
+9.1,15.2,69.1,38,Female,IDA,,Iron_deficiency,Low,Moderate
+11.7,15.1,88.9,27,Male,ID,Not Applicable,,Moderate,Moderate
+8.7,15.7,77.9,72,Female,IDA,,Iron_deficiency,Low,Moderate
+8.6,17.8,79.3,28,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+16.9,12.8,92.4,32,Male,Normal,Not Applicable,,Moderate,Moderate
+15.2,12.7,87.0,35,Female,Normal,,,High,Low
+12.6,15.8,78.0,30,Female,ID,,,Moderate,Moderate
+12.0,13.8,89.5,61,Female,ID,,,High,Moderate
+11.0,17.4,74.2,21,Female,IDA,Postpartum,"Iron_deficiency,Heavy_menstruation",Moderate,Low
+15.1,13.9,91.4,60,Male,Normal,Not Applicable,,Moderate,Moderate
+16.4,13.7,88.2,41,Female,Normal,,,High,High
+15.6,12.5,97.4,23,Female,Normal,,,High,Low
+15.2,13.9,88.6,79,Female,Normal,,,High,Moderate
+12.5,13.0,82.5,63,Female,ID,,,Moderate,Low
+9.1,17.3,80.9,22,Female,IDA,,,Low,Moderate
+13.4,12.5,81.3,49,Female,Normal,,,Moderate,Low
+16.5,14.3,91.6,74,Male,Normal,Not Applicable,,Moderate,Moderate
+11.2,14.0,85.3,39,Female,ID,,,Moderate,Low
+11.6,12.9,87.7,53,Male,ID,Not Applicable,,Moderate,Moderate
+14.4,14.0,99.3,28,Female,Normal,,,Moderate,High
+15.1,12.0,98.7,50,Female,Normal,,,Moderate,Low
+9.3,16.4,81.2,51,Female,IDA,,,Low,High
+10.6,14.2,65.3,30,Female,IDA,,Iron_deficiency,Moderate,High
+10.4,16.4,83.8,75,Male,IDA,Not Applicable,,Moderate,High
+12.5,14.6,85.2,55,Female,ID,,,High,Low
+10.3,15.9,69.2,67,Female,IDA,,Iron_deficiency,Moderate,High
+12.3,12.9,80.8,25,Male,ID,Not Applicable,,High,
+9.2,16.5,72.3,31,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.7,12.6,92.3,36,Male,Normal,Not Applicable,,Moderate,High
+8.6,17.7,70.1,29,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Low,Moderate
+16.0,12.6,97.6,24,Female,Normal,,,Moderate,Moderate
+8.4,15.8,71.2,67,Female,IDA,,"Iron_deficiency,GI_bleeding",Low,Moderate
+13.1,14.2,99.6,38,Female,Normal,,,High,Moderate
+14.2,12.6,83.6,32,Female,Normal,,,High,Moderate
+11.3,15.9,75.4,39,Female,ID,,Iron_deficiency,Moderate,Moderate
+15.2,13.1,97.4,78,Female,Normal,,,Moderate,High
+8.0,17.3,68.8,43,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+9.7,15.2,80.5,55,Female,IDA,,,Low,Low
+12.8,13.5,75.6,41,Female,ID,Postpartum,Thalassemia_trait,Moderate,Moderate
+8.4,16.3,65.9,32,Female,IDA,Postpartum,Iron_deficiency,Low,High
+15.5,12.5,96.4,39,Female,Normal,,,High,Low
+13.4,12.5,80.2,38,Male,Normal,Not Applicable,,Moderate,Low
+10.4,17.6,79.1,53,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+8.3,16.0,78.7,57,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+14.0,14.0,92.8,78,Male,Normal,Not Applicable,,Moderate,Low
+13.8,12.7,97.2,62,Female,Normal,,,High,Moderate
+8.5,15.8,69.5,78,Female,IDA,,Iron_deficiency,Low,High
+16.3,14.2,94.1,52,Female,Normal,,,High,
+10.1,16.2,80.3,78,Female,IDA,,,Moderate,Moderate
+16.8,12.7,94.7,42,Female,Normal,,,High,Moderate
+15.5,12.0,88.2,23,Female,Normal,,,High,Moderate
+13.4,12.2,94.5,53,Male,Normal,Not Applicable,,Moderate,Low
+9.7,15.9,80.1,39,Male,IDA,Not Applicable,,Low,Moderate
+13.3,11.6,84.9,63,Female,Normal,,,Moderate,Low
+16.9,12.9,95.6,79,Female,Normal,,,Moderate,Moderate
+10.0,16.6,71.7,66,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+10.4,17.7,71.1,57,Female,IDA,,Iron_deficiency,Moderate,Low
+10.6,18.0,74.3,69,Female,IDA,,"Iron_deficiency,GI_bleeding",Moderate,Moderate
+9.7,17.0,84.7,44,Male,IDA,Not Applicable,,Low,High
+14.4,11.8,80.9,53,Male,Normal,Not Applicable,,Moderate,
+9.0,14.5,82.5,69,Female,IDA,,,Low,Low
+9.3,17.5,84.8,72,Female,IDA,,,Low,Moderate
+12.5,15.7,84.1,74,Male,ID,Not Applicable,,Moderate,Low
+9.6,14.3,80.5,42,Female,IDA,,,Low,Low
+10.3,15.0,69.4,74,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+11.1,13.8,88.2,36,Female,ID,,,Moderate,Low
+9.8,17.3,74.3,40,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.5,13.3,86.7,31,Female,Normal,,,Moderate,Moderate
+9.2,15.4,80.7,42,Male,IDA,Not Applicable,,Low,Moderate
+13.6,13.3,93.9,65,Male,Normal,Not Applicable,,Moderate,
+9.1,17.5,78.8,71,Female,IDA,,Iron_deficiency,Low,High
+10.0,14.4,70.9,60,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+10.9,16.0,84.5,31,Male,IDA,Not Applicable,,Moderate,High
+13.6,13.9,84.5,32,Male,Normal,Not Applicable,,High,Low
+16.9,11.9,88.0,75,Female,Normal,,,Moderate,Moderate
+11.5,13.8,87.3,72,Female,ID,,,Moderate,Low
+15.0,11.8,98.6,39,Female,Normal,,,Moderate,Low
+16.2,13.0,90.1,36,Male,Normal,Not Applicable,,Low,Low
+16.0,11.9,98.7,68,Male,Normal,Not Applicable,,Low,
+10.9,16.0,67.2,73,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+12.6,14.2,83.8,71,Female,ID,,,High,Moderate
+9.1,15.8,66.6,32,Female,IDA,,Iron_deficiency,Low,High
+11.5,14.9,78.4,55,Female,ID,,"Iron_deficiency,GI_bleeding",Moderate,
+15.2,13.7,82.6,41,Female,Normal,,,Moderate,High
+16.6,13.2,96.0,63,Male,Normal,Not Applicable,,Moderate,Moderate
+14.0,13.1,96.7,39,Female,Normal,,,High,High
+16.3,13.2,94.7,31,Female,Normal,,,Moderate,Moderate
+8.2,14.7,79.1,23,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.7,13.9,88.9,21,Male,Normal,Not Applicable,,Low,Moderate
+12.3,12.5,86.9,30,Male,ID,Not Applicable,,Moderate,Moderate
+10.1,15.3,67.0,38,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+9.3,14.1,65.8,41,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+15.4,14.3,85.0,29,Female,Normal,,,Low,Low
+10.6,15.8,72.0,38,Female,IDA,,Iron_deficiency,Moderate,
+14.2,14.0,86.8,42,Male,Normal,Not Applicable,,Moderate,High
+14.7,12.0,97.4,57,Male,Normal,Not Applicable,,Moderate,Low
+12.7,15.6,89.2,27,Female,ID,,,Low,Moderate
+14.3,12.5,82.5,33,Female,Normal,,,Low,Moderate
+15.5,13.3,90.8,67,Female,Normal,,,Moderate,High
+9.2,15.6,84.0,44,Male,IDA,Not Applicable,,Low,Low
+12.8,14.8,85.8,34,Female,ID,,,Low,Moderate
+12.3,15.8,79.2,51,Male,ID,Not Applicable,,High,High
+10.9,16.1,76.6,59,Male,IDA,Not Applicable,Iron_deficiency,Moderate,
+10.6,17.4,82.4,78,Female,IDA,,,Moderate,High
+13.6,12.2,86.2,33,Female,Normal,,,Low,Low
+11.4,14.2,81.7,26,Female,ID,,,Moderate,Moderate
+13.9,13.2,82.1,51,Female,Normal,,,Moderate,Moderate
+15.5,13.2,90.6,19,Female,Normal,,,Moderate,Low
+16.6,11.8,94.2,34,Male,Normal,Not Applicable,,Moderate,
+10.3,17.2,77.3,51,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+12.4,12.8,87.7,18,Male,ID,Not Applicable,,Low,
+10.9,14.7,79.7,25,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+11.3,14.8,83.4,40,Female,ID,,,Moderate,Moderate
+8.4,14.8,82.8,43,Male,IDA,Not Applicable,,Low,Low
+16.8,12.2,87.8,71,Female,Normal,,,High,Moderate
+15.0,13.5,93.2,50,Female,Normal,,,High,Moderate
+15.4,13.3,95.9,51,Female,Normal,,,Low,Moderate
+10.4,15.7,67.7,77,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+9.0,15.6,70.9,25,Female,IDA,,Iron_deficiency,Low,Moderate
+8.2,17.2,74.4,25,Female,IDA,Pregnant,Iron_deficiency,Low,High
+12.2,14.0,85.6,54,Female,ID,,,Low,
+14.5,13.0,99.8,24,Female,Normal,Pregnant,,High,Moderate
+15.3,12.7,93.2,56,Female,Normal,,,Moderate,High
+16.0,14.3,86.7,60,Female,Normal,,,Low,Moderate
+16.3,13.2,93.8,21,Male,Normal,Not Applicable,,Moderate,Moderate
+13.4,13.0,96.2,44,Female,Normal,,,Moderate,Moderate
+10.6,16.0,68.5,42,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+11.3,14.3,75.9,19,Female,ID,,Iron_deficiency,Moderate,Moderate
+14.2,12.5,91.3,66,Female,Normal,,,High,Moderate
+10.1,16.2,67.5,48,Female,IDA,,Iron_deficiency,Moderate,High
+16.6,13.2,99.4,50,Male,Normal,Not Applicable,,Moderate,Low
+11.4,15.6,88.3,33,Male,ID,Not Applicable,,Moderate,
+16.2,13.4,90.0,61,Female,Normal,,,High,Moderate
+14.4,13.3,93.8,33,Male,Normal,Not Applicable,,Moderate,
+13.4,12.1,83.3,45,Male,Normal,Not Applicable,,Moderate,Low
+14.3,12.6,97.2,43,Male,Normal,Not Applicable,,Moderate,Low
+16.5,13.5,98.6,77,Male,Normal,Not Applicable,,Moderate,Moderate
+13.6,12.5,80.4,50,Male,Normal,Not Applicable,,Moderate,Low
+15.8,11.9,84.0,38,Female,Normal,,,Low,Low
+14.7,12.7,82.6,22,Male,Normal,Not Applicable,,Moderate,
+14.8,12.8,98.7,77,Male,Normal,Not Applicable,,High,High
+10.8,14.6,69.7,79,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+8.4,16.9,84.0,59,Male,IDA,Not Applicable,,Low,
+8.6,15.5,76.2,48,Male,IDA,Not Applicable,Iron_deficiency,Low,
+9.9,17.9,71.0,60,Female,IDA,,Iron_deficiency,Low,Moderate
+10.9,14.2,81.4,30,Male,IDA,Not Applicable,,Moderate,Low
+15.0,12.3,85.2,53,Male,Normal,Not Applicable,,Low,Moderate
+12.7,14.0,86.5,57,Male,ID,Not Applicable,,Moderate,Low
+15.0,12.0,80.7,48,Male,Normal,Not Applicable,,Moderate,High
+8.3,14.3,79.1,70,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+10.3,16.1,74.1,27,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+9.4,15.2,72.6,57,Female,IDA,,Iron_deficiency,Low,
+10.6,15.5,79.6,57,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+16.4,13.7,85.5,55,Female,Normal,,,Moderate,High
+11.6,13.7,84.2,53,Male,ID,Not Applicable,,Moderate,Moderate
+8.7,14.4,71.8,64,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+10.5,14.6,77.6,48,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+9.3,15.2,67.6,75,Female,IDA,,Iron_deficiency,Low,High
+10.0,15.7,75.4,80,Female,IDA,,Iron_deficiency,Moderate,Moderate
+12.3,15.4,78.2,26,Male,ID,Not Applicable,,High,Low
+10.4,14.5,74.4,65,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+10.2,15.6,73.3,20,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+14.1,13.5,95.5,70,Male,Normal,Not Applicable,,High,Moderate
+8.5,15.8,83.4,64,Female,IDA,,,Low,Moderate
+11.1,15.3,77.1,35,Male,ID,Not Applicable,Iron_deficiency,Moderate,Moderate
+15.8,14.1,89.6,33,Male,Normal,Not Applicable,,High,Moderate
+8.8,15.4,83.8,78,Female,IDA,,,Low,Low
+16.9,13.2,81.9,79,Male,Normal,Not Applicable,,Low,Low
+15.3,14.3,92.4,56,Male,Normal,Not Applicable,,Moderate,
+16.7,13.4,84.5,27,Female,Normal,,,Moderate,Moderate
+12.1,13.0,82.8,64,Male,ID,Not Applicable,,Moderate,Low
+15.3,13.5,84.3,61,Male,Normal,Not Applicable,,Low,Low
+9.2,16.8,76.3,55,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+13.0,13.7,88.4,48,Female,ID,,,Moderate,Low
+12.7,14.0,82.1,64,Male,ID,Not Applicable,,Moderate,Moderate
+15.7,12.7,89.8,18,Male,Normal,Not Applicable,,Moderate,Low
+9.1,15.7,82.1,21,Male,IDA,Not Applicable,,Low,
+10.3,14.8,70.4,35,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+15.0,13.1,80.6,19,Female,Normal,,,Low,Low
+10.5,17.5,66.3,61,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+12.4,14.1,80.4,69,Female,ID,,,High,Low
+13.7,12.7,94.6,40,Female,Normal,,,High,Moderate
+11.7,14.7,80.2,66,Female,ID,,,Moderate,Low
+14.3,13.3,84.1,49,Male,Normal,Not Applicable,,Moderate,Moderate
+8.2,17.8,82.1,56,Female,IDA,,,Low,High
+10.3,14.8,82.8,60,Female,IDA,,,Moderate,Moderate
+16.8,13.2,85.5,52,Male,Normal,Not Applicable,,High,Low
+15.3,14.2,81.3,72,Female,Normal,,,Low,Moderate
+9.2,14.1,83.8,55,Female,IDA,,,Low,Moderate
+11.9,12.7,90.0,24,Male,ID,Not Applicable,,Moderate,Moderate
+12.4,12.9,86.1,23,Female,ID,,,High,Moderate
+14.5,12.3,91.2,47,Male,Normal,Not Applicable,,High,Low
+16.4,13.6,88.9,71,Female,Normal,,,Low,
+15.9,13.9,93.1,42,Female,Normal,,,High,Low
+14.1,13.2,88.4,61,Male,Normal,Not Applicable,,High,
+9.8,14.5,77.9,71,Female,IDA,,Iron_deficiency,Low,Moderate
+10.3,17.5,80.8,79,Male,IDA,Not Applicable,,Moderate,Moderate
+13.2,13.7,97.6,24,Female,Normal,,,High,High
+13.2,14.5,87.4,33,Female,Normal,,,High,
+12.6,15.5,78.3,66,Male,ID,Not Applicable,,Moderate,Moderate
+12.1,12.7,86.5,71,Male,ID,Not Applicable,,Low,Low
+10.8,15.7,73.6,24,Male,IDA,Not Applicable,Iron_deficiency,Moderate,
+10.4,15.5,70.3,52,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+8.5,15.5,76.5,72,Male,IDA,Not Applicable,"Iron_deficiency,GI_bleeding",Low,Low
+12.0,15.0,77.0,62,Male,ID,Not Applicable,,High,Low
+8.1,17.1,73.8,66,Male,IDA,Not Applicable,"Iron_deficiency,GI_bleeding",Low,Low
+8.6,15.8,77.4,19,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+11.7,13.8,81.1,52,Female,ID,,,Moderate,Moderate
+9.3,14.1,77.3,39,Female,IDA,,Iron_deficiency,Low,
+12.3,13.6,82.3,42,Female,ID,,,Moderate,Low
+9.3,15.7,80.5,66,Male,IDA,Not Applicable,,Low,
+12.5,12.7,86.9,38,Female,ID,,,Moderate,Moderate
+10.8,17.6,72.5,21,Female,IDA,Pregnant,Iron_deficiency,Moderate,Low
+14.3,12.2,89.3,78,Male,Normal,Not Applicable,,Moderate,Moderate
+16.7,13.7,95.4,39,Male,Normal,Not Applicable,,Moderate,Low
+13.0,13.7,84.4,71,Female,ID,,,Low,
+15.9,13.2,80.6,28,Male,Normal,Not Applicable,,High,High
+12.5,13.6,76.7,45,Female,ID,Pregnant,,Low,
+16.2,14.3,93.9,32,Female,Normal,,,High,
+12.0,14.5,86.4,36,Male,ID,Not Applicable,,High,
+15.7,12.0,92.3,24,Male,Normal,Not Applicable,,Moderate,High
+11.3,15.7,82.8,64,Female,ID,,,Moderate,Moderate
+8.7,17.0,75.3,80,Female,IDA,,Iron_deficiency,Low,Moderate
+8.4,17.1,72.9,72,Male,IDA,Not Applicable,Iron_deficiency,Low,High
+8.5,17.8,68.1,57,Female,IDA,,"Iron_deficiency,GI_bleeding",Low,
+9.6,16.4,75.3,62,Female,IDA,,Iron_deficiency,Low,High
+9.5,15.0,76.4,35,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Low,Low
+15.0,12.9,83.5,61,Female,Normal,,,Moderate,Moderate
+12.6,14.7,78.0,38,Male,ID,Not Applicable,,Moderate,Low
+16.8,12.9,97.4,69,Male,Normal,Not Applicable,,High,Low
+9.9,17.7,82.2,67,Female,IDA,,,Low,High
+11.5,15.1,77.0,42,Male,ID,Not Applicable,Iron_deficiency,Moderate,Low
+12.3,14.0,83.3,33,Female,ID,,,High,High
+13.5,11.7,87.9,53,Female,Normal,,,Moderate,Low
+12.3,14.5,77.1,50,Male,ID,Not Applicable,,Low,Moderate
+10.1,15.9,75.2,76,Female,IDA,,Iron_deficiency,Moderate,High
+13.4,12.5,93.7,56,Male,Normal,Not Applicable,,Moderate,
+14.5,14.0,83.4,42,Female,Normal,,,Moderate,High
+8.9,15.3,78.7,40,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+14.7,14.2,85.0,29,Female,Normal,,,High,Moderate
+9.3,14.0,66.2,26,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Low,Low
+8.5,16.8,74.6,40,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+16.0,14.4,93.6,38,Female,Normal,,,High,Moderate
+13.6,13.6,96.1,70,Female,Normal,,,Moderate,Low
+10.5,17.7,65.5,37,Female,IDA,,Iron_deficiency,Moderate,Low
+11.9,15.8,76.3,38,Female,ID,Pregnant,Iron_deficiency,Moderate,Low
+9.8,16.6,76.1,62,Female,IDA,,Iron_deficiency,Low,High
+12.3,16.0,84.4,55,Male,ID,Not Applicable,,High,
+8.1,14.8,77.7,29,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Low,Moderate
+12.1,14.6,75.9,68,Male,ID,Not Applicable,,Moderate,High
+8.7,15.3,73.0,52,Female,IDA,,Iron_deficiency,Low,
+12.9,14.5,84.4,77,Female,ID,,,High,Low
+13.1,12.1,95.6,59,Male,Normal,Not Applicable,,Moderate,Moderate
+8.6,15.7,83.8,47,Male,IDA,Not Applicable,,Low,
+10.7,15.5,66.4,57,Female,IDA,,"Iron_deficiency,GI_bleeding",Moderate,Moderate
+12.7,14.6,88.0,64,Male,ID,Not Applicable,,Moderate,Moderate
+14.6,14.0,96.9,46,Female,Normal,,,High,Moderate
+11.5,15.1,85.2,32,Male,ID,Not Applicable,,Moderate,Moderate
+15.1,13.5,80.5,31,Female,Normal,,,Moderate,Moderate
+13.3,14.5,84.6,64,Male,Normal,Not Applicable,,Moderate,Moderate
+9.9,17.7,77.9,66,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+9.9,16.7,80.5,40,Female,IDA,,,Low,Moderate
+15.6,13.1,95.2,26,Female,Normal,,,High,High
+16.8,11.8,93.7,35,Male,Normal,Not Applicable,,Low,Moderate
+15.1,12.3,96.9,38,Female,Normal,,,Low,Low
+10.1,15.9,81.0,47,Female,IDA,,,Moderate,Low
+16.2,12.0,97.9,19,Female,Normal,Postpartum,,Moderate,
+16.6,14.0,89.0,55,Male,Normal,Not Applicable,,Moderate,Low
+10.7,17.8,78.7,20,Female,IDA,,"Iron_deficiency,Heavy_menstruation",Moderate,
+16.3,11.6,87.2,78,Female,Normal,,,Low,High
+14.1,12.9,80.7,25,Female,Normal,,,Moderate,Low
+15.7,13.8,89.0,48,Female,Normal,,,High,Moderate
+11.6,13.6,89.7,29,Female,ID,,,Moderate,Low
+14.7,14.1,81.5,21,Male,Normal,Not Applicable,,Moderate,Low
+11.6,12.5,82.7,64,Female,ID,,,Moderate,Moderate
+16.9,14.4,87.6,18,Female,Normal,,,Moderate,Low
+14.5,12.3,89.6,50,Female,Normal,,,High,Moderate
+16.3,11.9,95.4,53,Male,Normal,Not Applicable,,Moderate,High
+16.9,14.3,94.8,52,Male,Normal,Not Applicable,,High,High
+12.7,12.5,76.0,74,Female,ID,,Thalassemia_trait,Moderate,Low
+13.0,11.6,87.5,36,Male,Normal,Not Applicable,,High,Moderate
+8.6,17.0,66.1,23,Female,IDA,,Iron_deficiency,Low,Low
+12.9,12.8,86.3,22,Male,ID,Not Applicable,,Moderate,High
+10.8,17.5,83.0,64,Female,IDA,,,Moderate,Moderate
+9.9,14.9,83.6,77,Female,IDA,,,Low,Low
+14.1,12.6,88.4,35,Male,Normal,Not Applicable,,Low,Low
+9.9,15.7,71.1,39,Male,IDA,Not Applicable,Iron_deficiency,Low,
+13.7,11.6,94.1,61,Female,Normal,,,High,Low
+15.7,12.4,83.2,45,Female,Normal,,,Moderate,High
+13.5,14.4,90.8,32,Female,Normal,,,Low,Moderate
+14.1,12.3,84.5,27,Female,Normal,Pregnant,,Low,High
+14.1,12.2,91.9,69,Female,Normal,,,Moderate,
+15.2,12.3,81.4,43,Female,Normal,,,Low,Moderate
+9.0,14.8,76.6,79,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+14.3,14.0,81.6,49,Male,Normal,Not Applicable,,Moderate,Moderate
+9.5,15.5,76.9,67,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+16.8,13.2,98.8,69,Male,Normal,Not Applicable,,Low,Low
+9.7,17.3,78.2,77,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.8,12.6,93.6,35,Female,Normal,,,Moderate,Low
+10.7,16.6,72.2,64,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Moderate
+8.1,15.4,71.2,72,Female,IDA,,Iron_deficiency,Low,Moderate
+8.8,15.5,73.3,77,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+15.1,14.1,84.0,55,Male,Normal,Not Applicable,,Moderate,High
+10.9,17.3,81.0,72,Female,IDA,,,Moderate,Moderate
+14.5,14.3,89.6,74,Female,Normal,,,Moderate,Moderate
+9.2,17.5,72.8,63,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.6,13.3,93.0,77,Male,Normal,Not Applicable,,Moderate,Moderate
+15.0,12.6,98.6,56,Male,Normal,Not Applicable,,Low,Moderate
+9.0,16.8,76.9,52,Female,IDA,,Iron_deficiency,Low,High
+9.8,16.1,73.3,78,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+10.3,16.7,71.9,62,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+14.2,14.0,85.8,62,Male,Normal,Not Applicable,,Moderate,
+13.3,11.7,80.5,25,Female,Normal,,,Moderate,Moderate
+15.5,14.5,82.6,26,Female,Normal,,,Moderate,
+11.8,14.0,84.4,44,Female,ID,,,Moderate,Low
+10.7,15.1,79.7,76,Male,IDA,Not Applicable,"Iron_deficiency,GI_bleeding",Moderate,
+16.6,11.6,83.4,30,Male,Normal,Not Applicable,,Low,Moderate
+10.9,16.1,78.5,54,Male,IDA,Not Applicable,Iron_deficiency,Moderate,Low
+13.3,13.3,96.2,31,Male,Normal,Not Applicable,,Low,Moderate
+9.0,16.9,73.8,75,Female,IDA,,Iron_deficiency,Low,High
+10.5,17.1,74.1,36,Female,IDA,,Iron_deficiency,Moderate,High
+14.0,12.9,83.5,38,Female,Normal,Postpartum,,Moderate,Low
+11.5,15.0,75.6,30,Female,ID,Postpartum,Iron_deficiency,Moderate,Moderate
+16.2,12.2,89.1,38,Female,Normal,Postpartum,,Moderate,Moderate
+16.8,13.1,90.8,19,Female,Normal,,,Moderate,Low
+8.3,17.4,80.7,43,Male,IDA,Not Applicable,,Low,Moderate
+8.2,17.6,81.7,34,Male,IDA,Not Applicable,,Low,Low
+11.9,14.1,83.5,40,Male,ID,Not Applicable,,Moderate,High
+16.5,12.9,95.7,24,Female,Normal,,,High,
+13.0,14.5,95.4,58,Male,Normal,Not Applicable,,Moderate,Moderate
+16.9,13.8,81.5,77,Female,Normal,,,Moderate,Moderate
+8.8,17.3,84.1,20,Female,IDA,,,Low,Low
+11.1,15.1,85.3,43,Female,ID,,,Moderate,Moderate
+16.6,13.1,99.0,28,Male,Normal,Not Applicable,,Moderate,
+13.4,12.8,80.6,54,Male,Normal,Not Applicable,,Low,Moderate
+16.8,12.0,94.3,42,Male,Normal,Not Applicable,,Moderate,Moderate
+15.9,13.4,93.0,71,Female,Normal,,,Moderate,
+13.4,13.4,80.6,52,Female,Normal,,,Moderate,
+9.5,14.9,67.6,26,Female,IDA,,Iron_deficiency,Low,High
+11.4,14.6,80.9,60,Male,ID,Not Applicable,,Moderate,Low
+15.5,12.7,88.5,23,Male,Normal,Not Applicable,,Low,High
+8.9,15.8,82.6,75,Male,IDA,Not Applicable,,Low,High
+16.8,12.4,95.5,25,Female,Normal,,,High,Moderate
+13.8,14.1,80.8,32,Female,Normal,,,High,Low
+15.8,13.1,92.9,69,Male,Normal,Not Applicable,,Low,Moderate
+11.3,14.3,83.6,24,Female,ID,Pregnant,,Moderate,High
+13.7,12.2,82.6,51,Male,Normal,Not Applicable,,Moderate,
+16.7,12.7,80.8,57,Female,Normal,,,High,Low
+14.3,12.2,96.6,79,Male,Normal,Not Applicable,,Moderate,Low
+8.4,15.6,66.5,21,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+8.6,16.7,71.6,80,Female,IDA,,Iron_deficiency,Low,Moderate
+12.0,14.6,81.1,30,Male,ID,Not Applicable,,High,Low
+8.8,16.2,66.1,55,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.3,13.7,86.5,19,Female,Normal,,,Moderate,Low
+9.9,15.1,76.1,35,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+11.9,13.5,80.5,48,Female,ID,,,Moderate,Low
+8.1,15.1,65.4,75,Female,IDA,,Iron_deficiency,Low,High
+14.5,13.0,96.9,61,Female,Normal,,,High,Moderate
+11.3,13.3,82.1,54,Male,ID,Not Applicable,,Moderate,Moderate
+9.8,15.1,78.1,19,Female,IDA,,Iron_deficiency,Low,High
+11.1,14.6,84.3,38,Male,ID,Not Applicable,,Moderate,
+12.6,15.0,78.6,18,Male,ID,Not Applicable,,High,Low
+14.0,12.1,94.2,59,Male,Normal,Not Applicable,,Low,Low
+10.6,15.0,66.9,29,Female,IDA,,Iron_deficiency,Moderate,High
+11.2,12.8,75.8,70,Female,ID,,Iron_deficiency,Moderate,Moderate
+17.0,12.3,93.4,39,Female,Normal,,,Moderate,Moderate
+11.6,14.0,81.7,53,Female,ID,,,Moderate,
+12.8,12.6,82.3,49,Male,ID,Not Applicable,,Moderate,Low
+13.2,13.8,89.6,52,Female,Normal,,,Low,Moderate
+15.1,11.6,86.5,45,Female,Normal,,,Moderate,Low
+12.6,15.6,84.4,64,Male,ID,Not Applicable,,High,High
+8.2,16.7,84.7,25,Male,IDA,Not Applicable,,Low,High
+10.5,17.5,81.7,26,Male,IDA,Not Applicable,,Moderate,Moderate
+16.4,13.4,82.3,72,Female,Normal,,,Low,Moderate
+13.6,12.6,85.9,63,Male,Normal,Not Applicable,,Moderate,High
+16.9,14.3,96.3,28,Female,Normal,,,High,Low
+13.5,13.7,93.2,69,Male,Normal,Not Applicable,,Moderate,Moderate
+14.5,12.6,96.5,27,Female,Normal,,,Moderate,High
+16.2,12.2,84.8,37,Male,Normal,Not Applicable,,High,Low
+10.8,15.8,78.4,44,Male,IDA,Not Applicable,Iron_deficiency,Moderate,High
+16.6,12.8,91.6,56,Male,Normal,Not Applicable,,Moderate,
+16.2,12.0,86.5,30,Male,Normal,Not Applicable,,Low,Moderate
+8.0,14.1,80.5,20,Female,IDA,,,Low,High
+15.3,12.7,81.1,79,Male,Normal,Not Applicable,,Low,Moderate
+15.5,13.6,87.5,38,Female,Normal,,,High,Low
+14.7,14.4,94.5,47,Male,Normal,Not Applicable,,Moderate,Moderate
+9.2,14.4,68.4,57,Male,IDA,Not Applicable,Iron_deficiency,Low,Low
+16.2,12.9,86.8,19,Female,Normal,,,Moderate,Low
+12.7,14.2,76.1,41,Male,ID,Not Applicable,,Low,Low
+14.7,13.6,94.5,77,Female,Normal,,,Moderate,Moderate
+13.0,12.7,79.4,39,Female,ID,,,High,Low
+8.0,15.9,83.8,22,Female,IDA,,,Low,Low
+13.4,11.6,87.0,64,Male,Normal,Not Applicable,,Moderate,High
+13.4,13.4,97.1,31,Male,Normal,Not Applicable,,High,Low
+15.6,11.9,83.3,73,Female,Normal,,,Moderate,Low
+13.2,12.0,84.3,46,Male,Normal,Not Applicable,,Moderate,Low
+14.4,12.2,91.1,69,Male,Normal,Not Applicable,,High,Low
+15.8,12.5,93.9,61,Male,Normal,Not Applicable,,Moderate,Moderate
+14.1,13.7,99.5,54,Female,Normal,,,Moderate,Low
+16.6,12.1,99.1,66,Female,Normal,,,High,
+11.9,13.5,75.3,71,Female,ID,,Iron_deficiency,Moderate,High
+15.4,13.3,93.9,23,Female,Normal,,,Moderate,Moderate
+9.2,17.4,83.7,55,Male,IDA,Not Applicable,,Low,Moderate
+13.8,13.9,84.7,47,Female,Normal,,,Moderate,High
+14.6,12.1,87.9,39,Female,Normal,,,High,High
+16.2,11.8,93.9,40,Female,Normal,,,Low,Low
+8.5,16.4,72.3,22,Male,IDA,Not Applicable,Iron_deficiency,Low,Moderate
+15.8,12.3,80.6,36,Female,Normal,,,Moderate,Moderate
+14.3,12.0,97.7,72,Male,Normal,Not Applicable,,Low,Low
